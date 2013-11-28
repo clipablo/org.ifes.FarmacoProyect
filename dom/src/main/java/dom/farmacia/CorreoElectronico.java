@@ -9,6 +9,8 @@ import org.apache.isis.applib.annotation.ObjectType;
 @ObjectType("CorreoElectronico")
 public class CorreoElectronico {
 
+
+
 	private String descripcion;
 	private String direccion;
 	public String getDescripcion() {
